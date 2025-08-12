@@ -1,0 +1,18 @@
+.header-btns{
+    background-color: #1967d2;
+   color: white;
+}
+#signup {
+  color: #1967d2;
+  background-color: #e2eaf8;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  &:hover {
+    color: #e2eaf8;
+  background-color: #1967d2; 
+}
+}
+
+
